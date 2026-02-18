@@ -19,15 +19,15 @@ redirect_from:
 
 I am currently a Ph.D. student in the Joint Ph.D. Program between Zhejiang University and Westlake University (enrolled in the Fall of 2024). I conduct my research at the [School of Engineering](https://en-soe.westlake.edu.cn/), [Westlake University](https://en.westlake.edu.cn/), where I am privileged to be supervised by Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=en).
 
-My research primarily focuses on Brain-inspired Computing, with a specific emphasis on Spiking Neural Networks (SNNs). Driven by a passion for exploring the intersection of biological intelligence and artificial systems, I have also been expanding my research horizons into: i) investigating hallucinations in MLLMs; ii) exploring LLM-based planning and decision-making for robotics.
+My research focuses on Brain-inspired Computing, specifically enhancing the performance of Spiking Neural Networks (SNNs) to tackle increasingly complex tasks. I am passionate about bridging the gap between biological efficiency and artificial intelligence.
+
+I am always open to collaborations or discussions regarding SNNs and neuromorphic computing. Feel free to reach out—let’s connect!
+
 
 # Educations
 - *2019.09 - 2023.06*, B.E. in Computer Science and Technology (East China University of Science and Technology)
 - *2023.09 - 2024.06*, M.S. in Computer Science and Technology (East China University of Science and Technology, Withdrawn)
 - *2024.09 - 2029.06 (Expected)*, Ph.D. Student in Computer Science and Technology (School of Computer Science, Zhejiang University).
-
-
-
 
 
 # News
