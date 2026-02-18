@@ -103,4 +103,4 @@ Zizheng Zhu\*, Yingchao Yu\*, **Zeqi Zheng\***, et al.
 - *2019-2023* School Academic Scholarship (First & Second Prize)
 
 # Welcome
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w2UTaZyU2VVylIDbKR9XlKrB0nuQxq0EeuTgqkW9LDg'></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O4LrMvOh7XJcTIi4ltzemELMhVYeIlYvQ0lf2mittHg&cl=ffffff&w=a"></script>
